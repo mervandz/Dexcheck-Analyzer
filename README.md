@@ -5,7 +5,7 @@
 ## Screenshots
 ![Wave Executor Preview](https://i.ibb.co/Ss0K6Md/image.png)
 ![Screenshot 1]([https://i.ibb.co/FKgnQNQ](https://i.ibb.co/X5qySCM/1.png))
-![Screenshot 2]([https://i.ibb.co/VCsH2q5](https://i.ibb.co/yXWVzGz/3e.png))
+![Screenshot 2]((https://i.ibb.co/yXWVzGz/3e.png))
 
 ## Download
 
