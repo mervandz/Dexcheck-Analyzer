@@ -6,7 +6,8 @@
 ![Wave Executor Preview]([[https://i.ibb.co/Ss0K6Md/image.png](https://i.ibb.co/X5qySCM/1.png)](https://i.ibb.co/X5qySCM/1.png))
 ![Screenshot 1]([https://i.ibb.co/FKgnQNQ](https://i.ibb.co/X5qySCM/1.png))
 ![Wave Executor Preview](https://i.ibb.co/X5qySCM/1.png)
-
+![Wave Executor Preview](https://i.ibb.co/xmttsgf/2.png)
+https://i.ibb.co/xmttsgf/2.png
 ## Download
 
 [![Download Dexcheck Analyzer](https://img.shields.io/badge/Download-Dexcheck%20Analyzer-blue.svg)](https://github.com/YourGitHubUsername/Dexcheck-Analyzer/archive/refs/tags/v1.0.0.zip)
