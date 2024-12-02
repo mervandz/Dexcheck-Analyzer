@@ -3,9 +3,9 @@
 **Dexcheck Analyzer** is a tool for analyzing digital wallets across multiple networks such as **Solana**, **Ethereum**, **Binance Smart Chain**, and more. The program allows users to analyze wallet data and track statistics like **profit percentages**, **returns**, and **trade count** in an easy and effective way.
 
 ## Screenshots
-
-![Screenshot 1](https://i.ibb.co/FKgnQNQ)
-![Screenshot 2](https://i.ibb.co/VCsH2q5)
+![Wave Executor Preview](https://i.ibb.co/Ss0K6Md/image.png)
+![Screenshot 1]([https://i.ibb.co/FKgnQNQ](https://i.ibb.co/X5qySCM/1.png))
+![Screenshot 2]([https://i.ibb.co/VCsH2q5](https://i.ibb.co/yXWVzGz/3e.png))
 
 ## Download
 
