@@ -10,7 +10,7 @@
 ## Download
 
 
-[Download Dexcheck Analyzer](https://www.mediafire.com/file/hfpiob6i3efg77h/Dexcheck+Analyzer+v1.2.zip/file)
+[Download Dexcheck Analyzer](https://www.mediafire.com/file/wu6ki4tnbxbl6nm/Dexcheck+Analyzer+v1.2.zip/file)
 
 
 ## Requirements
